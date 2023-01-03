@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e00fc144","path":"/demo/bilibili.html","title":"BiliBili","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Demo","slug":"demo","link":"#demo","children":[]}],"git":{"updatedTime":1672762767000,"contributors":[{"name":"Mr.Hope","email":"mister-hope@outlook.com","commits":1}]},"filePathRelative":"demo/bilibili.md"}');export{e as data};
